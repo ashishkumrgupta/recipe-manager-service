@@ -1,0 +1,8 @@
+# IntelliJ IDEA files #
+.idea
+.DS_Store
+*.iml
+# Maven files #
+target/
+# Logs and databases #
+*.log
